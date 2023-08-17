@@ -18,4 +18,4 @@ type: page
 
 ### Undergraduate
 
-1. [St. Louis Encephalitis Project](/projects/St-Louis-Encephalitis/)
+1. [St. Louis Encephalitis Project](https://github.com/bkbeitling/OldProjects/blob/70fd874a4e91aac6dd7dad7f5700b63435d06a1d/StLouisEncephalitisProject.pdf)
