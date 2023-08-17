@@ -44,7 +44,7 @@ params:
     # - name: twitch
     #   url: https://example.com
     - name: email
-      url: mailto:brianna.kay.beitling@gmail.com
+      url: brianna.kay.beitling@gmail.com
 menu:
   main:
     - name: Home
