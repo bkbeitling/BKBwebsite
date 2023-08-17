@@ -1,2 +1,0 @@
-# BKBwebsite
-Brianna Beitling website
