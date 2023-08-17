@@ -1,4 +1,4 @@
-baseURL: https://gokarna-hugo.netlify.app
+baseURL: https://briannabeitling.netlify.app
 title: Brianna Beitling
 theme: gokarna
 languageCode: en
@@ -34,9 +34,9 @@ params:
     # - name: twitter
     #   url: https://example.com
     - name: linkedin
-      url: https://example.com
+      url: https://www.linkedin.com/in/brianna-beitling/
     - name: github
-      url: https://example.com
+      url: https://github.com/bkbeitling
     # - name: dribbble
     #   url: https://example.com
     # - name: instagram
@@ -66,7 +66,7 @@ menu:
     - name: Resume
       identifier: resume
       pre: <span data-feather='coffee'></span>
-      url: https://github.com/bkbeitling
+      url: https://briannabeitling-resume.netlify.app
       weight: 5
     # - identifier: buymeacoffee
     #   pre: <span data-feather='coffee'></span>
