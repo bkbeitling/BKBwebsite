@@ -15,7 +15,14 @@ type: page
 
 ### Graduate
 
+##### A summary of these reports and methods used can be found [here]().
+
 
 ### Undergraduate
 
+##### A summary of these reports and methods used can be found [here]().
+
 1. [St. Louis Encephalitis Project](https://github.com/bkbeitling/OldProjects/blob/70fd874a4e91aac6dd7dad7f5700b63435d06a1d/StLouisEncephalitisProject.pdf)
+2. [Antidepressant Sales and the Health of the Economy Capstone](https://github.com/bkbeitling/OldProjects/blob/70fd874a4e91aac6dd7dad7f5700b63435d06a1d/Antidepressant%20Sales%20Capstone.pdf)
+3. [Relationship between Parenting Style and Academic Performance Capstone](https://github.com/bkbeitling/OldProjects/blob/70fd874a4e91aac6dd7dad7f5700b63435d06a1d/Parenting%20Style%20Capstone.pdf)
+4. [Students' Perceptions of Writing Enhanced Courses at Truman State University](https://github.com/bkbeitling/OldProjects/blob/70fd874a4e91aac6dd7dad7f5700b63435d06a1d/Writing%20Enhanced%20Report.pdf)
