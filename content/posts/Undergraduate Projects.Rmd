@@ -5,7 +5,7 @@ date: "August 18, 2023"
 output: 
   html_document:
     keep_md: true
-type: "page"
+type: "post"
 tags: ["statistical analysis", "linear regression", "ANOVA", "projects", "SPSS", "Shazam", "nonparametric"]
 ---
 
