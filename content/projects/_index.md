@@ -17,6 +17,10 @@ type: page
 
 ##### A summary of these reports and methods used can be found [here]().
 
+1. [Survivor Jury Vote](https://github.com/bkbeitling/OldProjects/blob/c476845ee2b3a18d9485400c6e12b91233cf144b/Graduate/Survivor%20Jury%20Vote/Survivor%20Jury%20Vote.pdf)
+2. [Survivor Returning Contestants](https://github.com/bkbeitling/OldProjects/blob/c476845ee2b3a18d9485400c6e12b91233cf144b/Graduate/Survivor%20Returnees/Survivor%20Returnees.pdf)
+3. [Survivor Demographic Advantage Visual Analysis](https://github.com/bkbeitling/OldProjects/blob/c476845ee2b3a18d9485400c6e12b91233cf144b/Graduate/Survivor%20Demographic%20Advantage%20Visualizations/Survivor%20Demographic%20Advantage%20Visualizations.pdf)
+
 
 ### Undergraduate
 
