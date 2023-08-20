@@ -24,11 +24,11 @@ type: page
 
 ### Undergraduate
 
-##### A summary of these reports and methods used can be found [here]().
+##### A summary of these reports and methods used can be found [here](https://briannabeitling.netlify.app/posts/undergraduate-projects/).
 
 1. [St. Louis Encephalitis Project](https://github.com/bkbeitling/OldProjects/blob/9a348920b6e7fa2648d84834fc076850a02ee6f7/Undergrad/StLouisEncephalitisProject.pdf)
 2. [Antidepressant Sales and the Health of the Economy Capstone](https://github.com/bkbeitling/OldProjects/blob/9a348920b6e7fa2648d84834fc076850a02ee6f7/Undergrad/Antidepressant%20Sales%20Capstone.pdf)
 3. [Relationship between Parenting Style and Academic Performance Capstone](https://github.com/bkbeitling/OldProjects/blob/9a348920b6e7fa2648d84834fc076850a02ee6f7/Undergrad/Parenting%20Style%20Capstone.pdf)
-4. [Students' Perceptions of Writing Enhanced Courses at Truman State University](https://github.com/bkbeitling/OldProjects/blob/9a348920b6e7fa2648d84834fc076850a02ee6f7/Undergrad/Writing%20Enhanced%20Report.pdf)
+4. [Students' Perceptions of Writing-Enhanced Courses at Truman State University](https://github.com/bkbeitling/OldProjects/blob/9a348920b6e7fa2648d84834fc076850a02ee6f7/Undergrad/Writing%20Enhanced%20Report.pdf)
 
 
