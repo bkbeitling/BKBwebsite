@@ -1,0 +1,28 @@
+---
+title: "Graduate Projects"
+date: 2023-08-20
+output:
+  html_document:
+    keep_md: yes
+type: post
+---
+
+At the University of Kansas Medical Center, I completed a Master of Science in Applied Statistics and Analytics with an emphasis in data science. Throughout my coursework, I completed several projects pertaining to the television show "Survivor" which are described below.
+
+### [Survivor Jury Vote](https://github.com/bkbeitling/OldProjects/blob/c476845ee2b3a18d9485400c6e12b91233cf144b/Graduate/Survivor%20Jury%20Vote/Survivor%20Jury%20Vote.pdf)
+**Course:** Linear Regression   
+**Summary:** Utilizing demographic and gameplay data about a "Survivor" contestant, this paper modeled a finalist's percentage of the jury vote received (vote to win at the final tribal council). Based on the chosen model, predictions were made for finalists from a season left out of the original data.     
+**Statistical methods and keywords:** multiple linear regression, simple linear regression, data scraping, Pearson correlation, scatterplot, automatic variable selection, residual plots, Cook's D, verifying model assumptions, prediction dataset, training dataset, Mallow's Cp, AIC, VIF, Shapiro-Wilk, model fit    
+**Software and packages:** SAS, R (tidyverse), Rmarkdown (SASmarkdown), Excel  
+
+### [Survivor Returning Contestants](https://github.com/bkbeitling/OldProjects/blob/c476845ee2b3a18d9485400c6e12b91233cf144b/Graduate/Survivor%20Returnees/Survivor%20Returnees.pdf)
+**Course:** Categorical Data Analysis   
+**Summary:**  Data about contestant demographics, gameplay, and representation by the "Survivor" editing department was collected and used to model and predict whether a contestant would be invited to return for a subsequent appearance on a later season of the show.   
+**Statistical methods and keywords:** multiple logistic regression, training dataset, prediction dataset, verifying model assumptions, univariate logistic regression, Wald Chi-Square, multicollinearity, model fit, maximum likelihood, odds ratio   
+**Software and packages:** SAS, Excel   
+
+### [Survivor Demographic Advantage Visual Analysis](https://github.com/bkbeitling/OldProjects/blob/c476845ee2b3a18d9485400c6e12b91233cf144b/Graduate/Survivor%20Demographic%20Advantage%20Visualizations/Survivor%20Demographic%20Advantage%20Visualizations.pdf)
+**Course:** Data Visualization and Acquisition   
+**Summary:** Demographic variables scraped from various websites were used to determine through a thorough visual analysis whether advantages exist for certain types of "Survivor" contestants as they enter the game.     
+**Statistical methods and keywords:** flow chart, geographic map, interactive visualization, animated visualization, bar graph, stacked bar graph, scatterplot, line of best fit, simple linear regression   
+**Software and packages:** Tableau, R (tidyverse), Excel   

@@ -7,8 +7,8 @@ output:
 type: post
 ---
 
-At Truman State University, I completed a Bachelor of Science in both economics and psychology as well as minors in statistics (theoretical), statistical methods (applied), and mathematics. Several papers written for courses completed during that undergraduate program are detailed below.
-
+At Truman State University, I completed a Bachelor of Science in both economics and psychology as well as minors in statistics (theoretical), statistical methods (applied), and mathematics. Several papers written for courses completed during that undergraduate program are detailed below.  
+   
 ### [St. Louis Encephalitis Project](https://github.com/bkbeitling/OldProjects/blob/9a348920b6e7fa2648d84834fc076850a02ee6f7/Undergrad/StLouisEncephalitisProject.pdf)
 **Course:** Introduction to Mathematical Biology  
 **Summary:** Environmental data (atmospheric and wildlife populations) were used to model and predict the incidence of St. Louis Encephalitis in Texas.  
